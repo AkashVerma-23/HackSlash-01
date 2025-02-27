@@ -1,4 +1,4 @@
-This project is based on a game named "Simon Says", build by using HTML,CSS and JAVASCRIPT.
+This project is a game named "Simon Says", build by using HTML,CSS and JAVASCRIPT.
 This game is a popular memory challenge where players must repeat a sequence of colors and clicks the color in the correct order.
 
 Game Initialization:
